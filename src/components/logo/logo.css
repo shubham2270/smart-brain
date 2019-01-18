@@ -1,0 +1,6 @@
+.Tilt{
+    border-radius: 3px;
+    box-shadow: rgb(58, 58, 58) 0px 0px 20px;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(251,106,12,1) 0%, rgba(193,11,135,1) 97.4% );
+    
+}

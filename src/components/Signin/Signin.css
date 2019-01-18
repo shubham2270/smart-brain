@@ -1,0 +1,27 @@
+.card {
+    background-color:transparent;
+    box-shadow: rgb(41, 41, 41) 0px 0px 20px;
+}
+
+.form-control1 {
+    background-color:transparent;
+}
+
+.form-control1:focus {
+    background-color:transparent;
+    color: white;
+}
+
+.pointer{
+    cursor: pointer;
+    color: white;
+    transition: .3s;
+}
+
+.pointer:hover {
+    color: yellowgreen;
+}
+
+.wrapper{
+    min-height: 85vh;
+}
